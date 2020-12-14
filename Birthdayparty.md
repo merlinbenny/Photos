@@ -1,7 +1,7 @@
 
 # **Birthday Party**
 ![](dress.jpg)
-![](Pic2.jpg)
+![](Pic2.JPG)
 ![](pic3.jpg)
 ![](pic4.jpg)
 ![](pic5.jpg)
